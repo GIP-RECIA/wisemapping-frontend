@@ -26,6 +26,7 @@ import {
   Designer,
   DesignerKeyboard,
   EditorRenderMode,
+  Mindmap,
 } from '@wisemapping/mindplot';
 
 import I18nMsg from '../classes/i18n-msg';
@@ -61,6 +62,8 @@ type EditorProps = {
   onLoad?: (designer: Designer) => void;
   theme?: Theme;
   accountConfiguration?: React.ReactElement;
+  hideAppBar?: boolean;
+  onChange?: (mindmap: Mindmap) => void;
 };
 
 const Editor = ({
@@ -69,6 +72,8 @@ const Editor = ({
   persistenceManager,
   onAction,
   accountConfiguration,
+  hideAppBar,
+  onChange,
 }: EditorProps): ReactElement => {
   const [model, setModel] = useState<Model | undefined>();
   const mindplotRef = useRef(null);
@@ -94,6 +99,7 @@ const Editor = ({
           window.newrelic?.noticeError(e);
         });
       setModel(model);
+      model.getDesigner().addEvent('modelUpdate', () => onChange(designer.getMindmap()));
     }
   }, [mindplotRef]);
 
@@ -110,13 +116,15 @@ const Editor = ({
   const msg = I18nMsg.loadLocaleData(locale);
   return (
     <IntlProvider locale={locale} messages={msg}>
-      <AppBar
-        model={model}
-        mapInfo={mapInfo}
-        capability={capability}
-        onAction={onAction}
-        accountConfig={accountConfiguration}
-      />
+      {!hideAppBar && (
+        <AppBar
+          model={model}
+          mapInfo={mapInfo}
+          capability={capability}
+          onAction={onAction}
+          accountConfig={accountConfiguration}
+        />
+      )}
 
       <Popover
         id="popover"

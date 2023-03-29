@@ -36,8 +36,7 @@ import {
   XMLSerializerFactory,
 } from '@wisemapping/mindplot';
 
-import Editor from './components';
-import { EditorOptions } from './components';
+import Editor, { EditorOptions } from './components';
 import MapInfo from './classes/model/map-info';
 
 declare global {
