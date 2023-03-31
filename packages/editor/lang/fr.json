@@ -1,263 +1,263 @@
 {
-    "editor.try-welcome": {
-        "defaultMessage": "Cet espace d'édition présente certaines des fonctionnalités de l'éditeur de cartes mentales!"
-    },
-    "editor.try-welcome-description": {
-        "defaultMessage": "Inscrivez-vous pour commencer à créer, partager et publier gratuitement un nombre illimité de cartes mentales."
-    },
-    "editor.try-welcome-mobile": {
-        "defaultMessage": "Cet espace d'édition présente certaines des fonctionnalités des cartes mentales!"
-    },
-    "editor.try-welcome-description-mobile": {
-        "defaultMessage": "Inscrivez-vous pour commencer à créer, partager et publier gratuitement un nombre illimité de cartes mentales. Les capacités d'édition limitées de mindmap sont prises en charge dans les appareils mobiles. Utilisez le navigateur de bureau pour bénéficier de toutes les fonctionnalités de l'éditeur."
-    },
-    "editor.edit-description-mobile": {
-        "defaultMessage": "Les capacités d'édition limitées de mindmap sont prises en charge dans les appareils mobiles. Utilisez le navigateur de bureau pour bénéficier de toutes les fonctionnalités de l'éditeur."
-    },
-    "action.accept": {
-        "defaultMessage": "Accepter"
-    },
-    "action.cancel": {
-        "defaultMessage": "Annuler"
-    },
-    "appbar.back-to-map-list": {
-        "defaultMessage": "Retour à la liste des cartes"
-    },
-    "appbar.button-signup": {
-        "defaultMessage": "S'inscrire"
-    },
-    "appbar.shared-button": {
-        "defaultMessage": "Partager"
-    },
-    "appbar.tooltip-export": {
-        "defaultMessage": "Exporter"
-    },
-    "appbar.tooltip-history": {
-        "defaultMessage": "Historique"
-    },
-    "appbar.tooltip-info": {
-        "defaultMessage": "Informations"
-    },
-    "appbar.tooltip-print": {
-        "defaultMessage": "Imprimer"
-    },
-    "appbar.tooltip-publish": {
-        "defaultMessage": "Publier"
-    },
-    "appbar.tooltip-redo": {
-        "defaultMessage": "Refaire édition"
-    },
-    "appbar.tooltip-save": {
-        "defaultMessage": "Enregistrer"
-    },
-    "appbar.tooltip-shared": {
-        "defaultMessage": "Partager"
-    },
-    "appbar.tooltip-signup": {
-        "defaultMessage": "S'inscrire"
-    },
-    "appbar.tooltip-starred": {
-        "defaultMessage": "Exceptionnel"
-    },
-    "appbar.tooltip-undo": {
-        "defaultMessage": "Annuler édition"
-    },
-    "link.help_text": {
-        "defaultMessage": "Adresse invalide"
-    },
-    "link.placeholder": {
-        "defaultMessage": "https://www.example.com"
-    },
-    "editor-panel.note-panel-title": {
-        "defaultMessage": "Note"
-    },
-    "editor-panel.icon-title": {
-        "defaultMessage": "Icône"
-    },
-    "editor-panel.link-panel-title": {
-        "defaultMessage": "Lien"
-    },
-    "editor-panel.tooltip-add-icon": {
-        "defaultMessage": "Ajouter une icône"
-    },
-    "editor-panel.tooltip-add-link": {
-        "defaultMessage": "Ajouter un lien"
-    },
-    "editor-panel.tooltip-add-note": {
-        "defaultMessage": "Ajouter une note"
-    },
-    "editor-panel.tooltip-add-relationship": {
-        "defaultMessage": "Ajouter une relation"
-    },
-    "editor-panel.tooltip-add-topic": {
-        "defaultMessage": "Ajouter un sujet"
-    },
-    "editor-panel.tooltip-delete-sujet": {
-        "defaultMessage": "Supprimer le sujet"
-    },
-    "editor-panel.tooltip-topic-border-color": {
-        "defaultMessage": "Couleur de bordure"
-    },
-    "editor-panel.tooltip-topic-font-bigger": {
-        "defaultMessage": "Grand"
-    },
-    "editor-panel.tooltip-topic-font-bold": {
-        "defaultMessage": "Gras"
-    },
-    "editor-panel.tooltip-topic-font-color": {
-        "defaultMessage": "Couleur"
-    },
-    "editor-panel.tooltip-topic-font-italic": {
-        "defaultMessage": "Italique"
-    },
-    "editor-panel.tooltip-topic-font-smaller": {
-        "defaultMessage": "Petit"
-    },
-    "editor-panel.tooltip-topic-font-style": {
-        "defaultMessage": "Style de police"
-    },
-    "editor-panel.tooltip-topic-share-ellipse": {
-        "defaultMessage": "Forme d'ellipse"
-    },
-    "editor-panel.tooltip-topic-share-line": {
-        "defaultMessage": "Chiffre de ligne"
-    },
-    "editor-panel.tooltip-topic-share-rectangle": {
-        "defaultMessage": "Forme rectangulaire"
-    },
-    "editor-panel.tooltip-topic-share-arrondi": {
-        "defaultMessage": "Forme ronde"
-    },
-    "editor-panel.tooltip-topic-style": {
-        "defaultMessage": "Style de sujet"
-    },
-    "zoom-panel.tooltip-clavier": {
-        "defaultMessage": "Raccourcis clavier"
-    },
-    "zoom-panel.tooltip-zoom-in": {
-        "defaultMessage": "Zoom avant"
-    },
-    "zoom-panel.tooltip-zoom-out": {
-        "defaultMessage": "S'éloigner"
-    },
-    "zoom-panel.tooltip-zoom-to-fit": {
-        "defaultMessage": "Centre"
-    },
-    "shortcut-help-pane.action": {
-        "defaultMessage": "Action"
-    },
-    "shortcut-help-pane.add-child": {
-        "defaultMessage": "Ajouter le sujet de l'enfant"
-    },
-    "shortcut-help-pane.add-link": {
-        "defaultMessage": "Ajouter un lien"
-    },
-    "shortcut-help-pane.add-note": {
-        "defaultMessage": "Ajouter une note"
-    },
-    "shortcut-help-pane.add-sibling": {
-        "defaultMessage": "Ajouter un sujet de frère"
-    },
-    "shortcut-help-pane.cancel-text-changes": {
-        "defaultMessage": "Annuler les modifications du texte"
-    },
-    "shortcut-help-pane.change-font-bold": {
-        "defaultMessage": "Changer de texte en gras"
-    },
-    "shortcut-help-pane.change-font-italic": {
-        "defaultMessage": "Changer le texte en italique"
-    },
-    "shortcut-help-pane.collapse-children": {
-        "defaultMessage": "Effondrer les enfants"
-    },
-    "shortcut-help-pane.copy-and-text": {
-        "defaultMessage": "Copier et coller des sujets"
-    },
-    "shortcut-help-pane.delete-topic": {
-        "defaultMessage": "Supprimer le sujet"
-    },
-    "shortcut-help-pane.deselect-all-topics": {
-        "defaultMessage": "Désélectionner tous les sujets"
-    },
-    "shortcut-help-pane.edit-multiline": {
-        "defaultMessage": "Ajouter le texte du sujet multi-ligne"
-    },
-    "shortcut-help-pane.edit-topic": {
-        "defaultMessage": "Modifier le texte du sujet"
-    },
-    "shortcut-help-pane.edit-topic-key": {
-        "defaultMessage": "Commencez juste à taper"
-    },
-    "shortcut-help-pane.navigation": {
-        "defaultMessage": "La navigation"
-    },
-    "shortcut-help-pane.navigation-keys": {
-        "defaultMessage": "Touches directionnelles"
-    },
-    "shortcut-help-pane.redo": {
-        "defaultMessage": "Réduire l'édition"
-    },
-    "shortcut-help-pane.save-changes": {
-        "defaultMessage": "Sauvegarder les modifications"
-    },
-    "shortcut-help-pane.select-all-topics": {
-        "defaultMessage": "Sélectionnez tous les sujets"
-    },
-    "shortcut-help-pane.select-topics": {
-        "defaultMessage": "Sélectionnez plusieurs sujets"
-    },
-    "shortcut-help-pane.select-topics-keys": {
-        "defaultMessage": "Clic de souris"
-    },
-    "shortcut-help-pane.undo": {
-        "defaultMessage": "Annuler l'édition"
-    },
-    "icon-picker.show-images": {
-        "defaultMessage": "Afficher les images"
-    },
-    "editor-panel.tooltip-connection-style-polyline": {
-        "defaultMessage": "Polyligne"
-    },
-    "editor-panel.tooltip-connection-style-polyline-curved": {
-        "defaultMessage": "Courbe polyligne"
-    },
-    "shortcut-help-pane.overwrite-edit-topic": {
-        "defaultMessage": "Sobrescribir el texto del tópico"
-    },
-    "shortcut-help-pane.overwrite-edit-topic-key": {
-        "defaultMessage": "Commencer à écrire sur le sujet sélectionné"
-    },
-    "editor-panel.tooltip-connection-color": {
-        "defaultMessage": "Couleur"
-    },
-    "editor-panel.tooltip-connection-color-default": {
-        "defaultMessage": "Couleur par défaut"
-    },
-    "editor-panel.tooltip-connection-style": {
-        "defaultMessage": "Style de connexion"
-    },
-    "editor-panel.tooltip-connection-style-curved-thick": {
-        "defaultMessage": "Courbe large"
-    },
-    "editor-panel.tooltip-connection-style-curved-thin": {
-        "defaultMessage": "Courbe mince"
-    },
-    "editor-panel.tooltip-topic-border-color-default": {
-        "defaultMessage": "Couleur de bordure par défaut"
-    },
-    "editor-panel.tooltip-topic-fill-color": {
-        "defaultMessage": "La couleur de remplissage"
-    },
-    "editor-panel.tooltip-topic-fill-color-default": {
-        "defaultMessage": "Couleur de relleno por defecto"
-    },
-    "action.delete": {
-        "defaultMessage": "Supprimer"
-    },
-    "editor-panel.tooltip-topic-font-color-default": {
-        "defaultMessage": "Couleur par défaut"
-    },
-    "shortcut-help-pane.drag-disconnect": {
-        "defaultMessage": "Déconnecter le sujet"
-    }
+  "editor.try-welcome": {
+    "defaultMessage": "Cet espace d'édition présente certaines des fonctionnalités de l'éditeur de cartes mentales !"
+  },
+  "editor.try-welcome-description": {
+    "defaultMessage": "Inscrivez-vous pour commencer à créer, partager et publier gratuitement un nombre illimité de cartes mentales."
+  },
+  "editor.try-welcome-mobile": {
+    "defaultMessage": "Cet espace d'édition présente certaines des fonctionnalités des cartes mentales !"
+  },
+  "editor.try-welcome-description-mobile": {
+    "defaultMessage": "Inscrivez-vous pour commencer à créer, partager et publier gratuitement un nombre illimité de cartes mentales. Les capacités d'édition limitées de mindmap sont prises en charge dans les appareils mobiles. Utilisez le navigateur de bureau pour bénéficier de toutes les fonctionnalités de l'éditeur."
+  },
+  "editor.edit-description-mobile": {
+    "defaultMessage": "Les capacités d'édition limitées de mindmap sont prises en charge dans les appareils mobiles. Utilisez le navigateur de bureau pour bénéficier de toutes les fonctionnalités de l'éditeur."
+  },
+  "action.accept": {
+    "defaultMessage": "Accepter"
+  },
+  "action.cancel": {
+    "defaultMessage": "Annuler"
+  },
+  "appbar.back-to-map-list": {
+    "defaultMessage": "Retour à la liste des cartes"
+  },
+  "appbar.button-signup": {
+    "defaultMessage": "S'inscrire"
+  },
+  "appbar.shared-button": {
+    "defaultMessage": "Partager"
+  },
+  "appbar.tooltip-export": {
+    "defaultMessage": "Exporter"
+  },
+  "appbar.tooltip-history": {
+    "defaultMessage": "Historique"
+  },
+  "appbar.tooltip-info": {
+    "defaultMessage": "Informations"
+  },
+  "appbar.tooltip-print": {
+    "defaultMessage": "Imprimer"
+  },
+  "appbar.tooltip-publish": {
+    "defaultMessage": "Publier"
+  },
+  "appbar.tooltip-redo": {
+    "defaultMessage": "Refaire l'édition"
+  },
+  "appbar.tooltip-save": {
+    "defaultMessage": "Enregistrer"
+  },
+  "appbar.tooltip-shared": {
+    "defaultMessage": "Partager"
+  },
+  "appbar.tooltip-signup": {
+    "defaultMessage": "S'inscrire"
+  },
+  "appbar.tooltip-starred": {
+    "defaultMessage": "Favoris"
+  },
+  "appbar.tooltip-undo": {
+    "defaultMessage": "Annuler l'édition"
+  },
+  "link.help_text": {
+    "defaultMessage": "Adresse invalide"
+  },
+  "link.placeholder": {
+    "defaultMessage": "https://www.example.com"
+  },
+  "editor-panel.note-panel-title": {
+    "defaultMessage": "Note"
+  },
+  "editor-panel.icon-title": {
+    "defaultMessage": "Icône"
+  },
+  "editor-panel.link-panel-title": {
+    "defaultMessage": "Lien"
+  },
+  "editor-panel.tooltip-add-icon": {
+    "defaultMessage": "Ajouter une icône"
+  },
+  "editor-panel.tooltip-add-link": {
+    "defaultMessage": "Ajouter un lien"
+  },
+  "editor-panel.tooltip-add-note": {
+    "defaultMessage": "Ajouter une note"
+  },
+  "editor-panel.tooltip-add-relationship": {
+    "defaultMessage": "Ajouter une relation"
+  },
+  "editor-panel.tooltip-add-topic": {
+    "defaultMessage": "Ajouter un sujet"
+  },
+  "editor-panel.tooltip-delete-sujet": {
+    "defaultMessage": "Supprimer le sujet"
+  },
+  "editor-panel.tooltip-topic-border-color": {
+    "defaultMessage": "Couleur de bordure"
+  },
+  "editor-panel.tooltip-topic-font-bigger": {
+    "defaultMessage": "Grand"
+  },
+  "editor-panel.tooltip-topic-font-bold": {
+    "defaultMessage": "Gras"
+  },
+  "editor-panel.tooltip-topic-font-color": {
+    "defaultMessage": "Couleur"
+  },
+  "editor-panel.tooltip-topic-font-italic": {
+    "defaultMessage": "Italique"
+  },
+  "editor-panel.tooltip-topic-font-smaller": {
+    "defaultMessage": "Petit"
+  },
+  "editor-panel.tooltip-topic-font-style": {
+    "defaultMessage": "Style de police"
+  },
+  "editor-panel.tooltip-topic-share-ellipse": {
+    "defaultMessage": "Forme d'ellipse"
+  },
+  "editor-panel.tooltip-topic-share-line": {
+    "defaultMessage": "Chiffre de ligne"
+  },
+  "editor-panel.tooltip-topic-share-rectangle": {
+    "defaultMessage": "Forme rectangulaire"
+  },
+  "editor-panel.tooltip-topic-share-arrondi": {
+    "defaultMessage": "Forme ronde"
+  },
+  "editor-panel.tooltip-topic-style": {
+    "defaultMessage": "Style de sujet"
+  },
+  "zoom-panel.tooltip-clavier": {
+    "defaultMessage": "Raccourcis clavier"
+  },
+  "zoom-panel.tooltip-zoom-in": {
+    "defaultMessage": "Zoom avant"
+  },
+  "zoom-panel.tooltip-zoom-out": {
+    "defaultMessage": "Zoom arrière"
+  },
+  "zoom-panel.tooltip-zoom-to-fit": {
+    "defaultMessage": "Ajuster à la page"
+  },
+  "shortcut-help-pane.action": {
+    "defaultMessage": "Action"
+  },
+  "shortcut-help-pane.add-child": {
+    "defaultMessage": "Ajouter un sujet"
+  },
+  "shortcut-help-pane.add-link": {
+    "defaultMessage": "Ajouter un lien"
+  },
+  "shortcut-help-pane.add-note": {
+    "defaultMessage": "Ajouter une note"
+  },
+  "shortcut-help-pane.add-sibling": {
+    "defaultMessage": "Ajouter un sous-sujet"
+  },
+  "shortcut-help-pane.cancel-text-changes": {
+    "defaultMessage": "Annuler les modifications du texte"
+  },
+  "shortcut-help-pane.change-font-bold": {
+    "defaultMessage": "Changer de texte en gras"
+  },
+  "shortcut-help-pane.change-font-italic": {
+    "defaultMessage": "Changer le texte en italique"
+  },
+  "shortcut-help-pane.collapse-children": {
+    "defaultMessage": "Réduire les sujets"
+  },
+  "shortcut-help-pane.copy-and-text": {
+    "defaultMessage": "Copier et coller des sujets"
+  },
+  "shortcut-help-pane.delete-topic": {
+    "defaultMessage": "Supprimer le sujet"
+  },
+  "shortcut-help-pane.deselect-all-topics": {
+    "defaultMessage": "Désélectionner tous les sujets"
+  },
+  "shortcut-help-pane.edit-multiline": {
+    "defaultMessage": "Ecrire un sujet sur plusieurs lignes"
+  },
+  "shortcut-help-pane.edit-topic": {
+    "defaultMessage": "Modifier le texte du sujet"
+  },
+  "shortcut-help-pane.edit-topic-key": {
+    "defaultMessage": "Commencez à taper"
+  },
+  "shortcut-help-pane.navigation": {
+    "defaultMessage": "Naviguer"
+  },
+  "shortcut-help-pane.navigation-keys": {
+    "defaultMessage": "Touches directionnelles"
+  },
+  "shortcut-help-pane.redo": {
+    "defaultMessage": "Refaire l'édition"
+  },
+  "shortcut-help-pane.save-changes": {
+    "defaultMessage": "Sauvegarder les modifications"
+  },
+  "shortcut-help-pane.select-all-topics": {
+    "defaultMessage": "Sélectionnez tous les sujets"
+  },
+  "shortcut-help-pane.select-topics": {
+    "defaultMessage": "Sélectionnez plusieurs sujets"
+  },
+  "shortcut-help-pane.select-topics-keys": {
+    "defaultMessage": "Clic gauche"
+  },
+  "shortcut-help-pane.undo": {
+    "defaultMessage": "Annuler l'édition"
+  },
+  "icon-picker.show-images": {
+    "defaultMessage": "Afficher les images"
+  },
+  "editor-panel.tooltip-connection-style-polyline": {
+    "defaultMessage": "Polyligne"
+  },
+  "editor-panel.tooltip-connection-style-polyline-curved": {
+    "defaultMessage": "Courbe polyligne"
+  },
+  "shortcut-help-pane.overwrite-edit-topic": {
+    "defaultMessage": "Remplacer le texte du sujet"
+  },
+  "shortcut-help-pane.overwrite-edit-topic-key": {
+    "defaultMessage": "Commencer à écrire sur le sujet sélectionné"
+  },
+  "editor-panel.tooltip-connection-color": {
+    "defaultMessage": "Couleur"
+  },
+  "editor-panel.tooltip-connection-color-default": {
+    "defaultMessage": "Couleur par défaut"
+  },
+  "editor-panel.tooltip-connection-style": {
+    "defaultMessage": "Style de connexion"
+  },
+  "editor-panel.tooltip-connection-style-curved-thick": {
+    "defaultMessage": "Courbe large"
+  },
+  "editor-panel.tooltip-connection-style-curved-thin": {
+    "defaultMessage": "Courbe mince"
+  },
+  "editor-panel.tooltip-topic-border-color-default": {
+    "defaultMessage": "Couleur de bordure par défaut"
+  },
+  "editor-panel.tooltip-topic-fill-color": {
+    "defaultMessage": "Couleur de remplissage"
+  },
+  "editor-panel.tooltip-topic-fill-color-default": {
+    "defaultMessage": "Couleur de remplissage par défaut"
+  },
+  "action.delete": {
+    "defaultMessage": "Supprimer"
+  },
+  "editor-panel.tooltip-topic-font-color-default": {
+    "defaultMessage": "Couleur par défaut"
+  },
+  "shortcut-help-pane.drag-disconnect": {
+    "defaultMessage": "Déconnecter le sujet"
+  }
 }
