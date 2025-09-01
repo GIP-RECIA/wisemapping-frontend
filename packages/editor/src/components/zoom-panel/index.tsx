@@ -110,7 +110,7 @@ const ZoomPanel = ({ model, capability }: ZoomPanelProps): ReactElement => {
       position={{
         position: {
           right: '7px',
-          top: 'calc(100% - 106.5px)',
+          top: 'calc(100% - 57px)',
         },
         vertical: false,
       }}
